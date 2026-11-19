@@ -1,22 +1,76 @@
-🔹 E-Commerce Platform – Shoppys.in 🛒
- 🔗 https://www.shoppys.in
+# 🌐 Live Web Projects Portfolio
 
-A feature-rich e-commerce website for a mobile accessories store, offering seamless shopping with secure payment gateways, real-time inventory updates, and an optimized UI/UX for smooth browsing and checkout.
+## About Me
 
+I am a Full Stack Web Developer passionate about building modern, responsive, and user-friendly web applications. I have designed and developed multiple live websites across different industries, focusing on performance, aesthetics, usability, and seamless user experiences.
 
+My projects demonstrate my ability to transform business requirements and creative ideas into impactful digital experiences through clean UI/UX, responsive layouts, and optimized web solutions.
 
-🔹 Resort Website – Mystique Resort Munnar 🌴
- 🔗 https://www.mystiqueresortmunnar.com
+## 🚀 Featured Client Projects
 
-A luxury resort website providing an immersive booking experience with stunning visuals, a user-friendly reservation system, and detailed resort information, ensuring effortless vacation planning.
+### 1. E-Commerce Platform – Rabaspices.in
+A feature-rich e-commerce website for premium Kerala spices, providing:
+- Smooth product browsing and navigation.
+- Secure and seamless checkout experience.
+- User-friendly shopping interface.
+- Responsive and optimized UI/UX.
 
+🔗 **Live Website:** https://rabaspices.in
 
+### 2. E-Commerce Store – Shoppys.in
+An e-commerce platform developed for a mobile accessories store, featuring:
+- Intuitive product browsing.
+- Seamless shopping experience.
+- Secure checkout functionality.
+- Responsive design across devices.
 
-🔹 Studio Website – Uma Studios 🎨
-🔗https://www.umastudios.net
+🔗 **Live Website:** https://shoppys.in
 
-A creative agency website with interactive animations, sleek design, and responsive layouts, enhancing brand presence and user engagement.
+### 3. Resort Portal – Mystique Resort Munnar
+A luxury resort website designed to deliver an immersive vacation-planning experience, featuring:
+- Elegant visuals and modern layouts.
+- Intuitive website navigation.
+- Detailed resort and accommodation information.
+- User-friendly booking experience.
 
+🔗 **Live Website:** [Add Website URL]
 
+### 4. Studio Showcase – Uma Studio
+A creative studio website focused on building a strong digital brand presence, featuring:
+- Sleek and modern layouts.
+- Interactive website elements.
+- Responsive design.
+- Improved brand presentation and user engagement.
 
-Each project reflects my passion for innovation, clean design, and user-centric functionality! ✨
+🔗 **Live Website:** [Add Website URL]
+
+### 5. Corporate Platform – Techmanteraz
+A professional corporate website designed to showcase business services and strengthen online credibility, featuring:
+- Clean and professional UI.
+- Structured service presentation.
+- Informative user journey.
+- Responsive website experience.
+
+🔗 **Live Website:** [Add Website URL]
+
+## 💻 Technical Focus
+
+- **Frontend Development:** React.js
+- **Cloud & Deployment:** AWS
+- **Web Development:** Responsive and modern web applications
+- **UI/UX:** User-friendly interfaces and intuitive navigation
+- **Performance:** Optimized layouts and seamless user experiences
+
+## 🎯 My Development Approach
+
+- Building responsive and mobile-friendly websites.
+- Creating visually appealing and intuitive interfaces.
+- Focusing on website performance and usability.
+- Translating business requirements into practical digital solutions.
+- Delivering maintainable and scalable web experiences.
+
+## 📩 Let's Connect
+
+I am always interested in exploring new opportunities, collaborating on exciting projects, and building meaningful digital experiences.
+
+**Let's turn ideas into impactful web solutions!**
