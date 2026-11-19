@@ -8,7 +8,7 @@ My projects demonstrate my ability to transform business requirements and creati
 
 ## 🚀 Featured Client Projects
 
-### 1. E-Commerce Platform – Rabaspices.in
+### 1. E-Commerce Platform – Raba Spices
 A feature-rich e-commerce website for premium Kerala spices, providing:
 - Smooth product browsing and navigation.
 - Secure and seamless checkout experience.
@@ -17,7 +17,16 @@ A feature-rich e-commerce website for premium Kerala spices, providing:
 
 🔗 **Live Website:** https://rabaspices.in
 
-### 2. E-Commerce Store – Shoppys.in
+### 2. Corporate Platform – Techmanteraz
+A professional corporate website designed to showcase business services and strengthen online credibility, featuring:
+- Clean and professional UI.
+- Structured service presentation.
+- Informative user journey.
+- Responsive website experience.
+
+🔗 **Live Website:** https://techmanteraz.in
+
+### 3. E-Commerce Store – Shoppys
 An e-commerce platform developed for a mobile accessories store, featuring:
 - Intuitive product browsing.
 - Seamless shopping experience.
@@ -26,32 +35,23 @@ An e-commerce platform developed for a mobile accessories store, featuring:
 
 🔗 **Live Website:** https://shoppys.in
 
-### 3. Resort Portal – Mystique Resort Munnar
+### 4. Resort Portal – Mystique Resort Munnar
 A luxury resort website designed to deliver an immersive vacation-planning experience, featuring:
 - Elegant visuals and modern layouts.
 - Intuitive website navigation.
 - Detailed resort and accommodation information.
 - User-friendly booking experience.
 
-🔗 **Live Website:** [Add Website URL]
+🔗 **Live Website:** https://mystiqueresortmunnar.com
 
-### 4. Studio Showcase – Uma Studio
+### 5. Studio Showcase – Uma Studio
 A creative studio website focused on building a strong digital brand presence, featuring:
 - Sleek and modern layouts.
 - Interactive website elements.
 - Responsive design.
 - Improved brand presentation and user engagement.
 
-🔗 **Live Website:** [Add Website URL]
-
-### 5. Corporate Platform – Techmanteraz
-A professional corporate website designed to showcase business services and strengthen online credibility, featuring:
-- Clean and professional UI.
-- Structured service presentation.
-- Informative user journey.
-- Responsive website experience.
-
-🔗 **Live Website:** [Add Website URL]
+🔗 **Live Website:** https://umastudiosmunnar.com
 
 ## 💻 Technical Focus
 
